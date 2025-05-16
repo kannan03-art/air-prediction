@@ -1,0 +1,14 @@
+air-quality-prediction-ml/
+│
+├── data/
+│   └── air_quality_data.csv            # Your dataset
+│
+├── notebooks/
+│   └── EDA_and_Modeling.ipynb          # Main notebook with code
+│
+├── app/                                # Optional: dashboard or web app
+│   └── dashboard.py                    # Streamlit or Flask app (optional)
+│
+├── README.md                           # Project overview and setup
+├── requirements.txt                    # List of dependencies
+└── .gitignore                          # Files to ignore in Git
